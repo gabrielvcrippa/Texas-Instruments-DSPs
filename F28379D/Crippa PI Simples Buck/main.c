@@ -1,3 +1,11 @@
+/************************************************************************************************************
+ * Autor: Gabriel Vinicius Crippa
+ * Aplicação: Controle do conversor CC-CC bidirecional em ambiente HIL
+ * Plataforma: Texas Instruments F28379D integrado ao Typhoon HIL 402
+ * Data: 2025
+ * Observação: Controle PI da malha de tensão da topologia Buck
+ ************************************************************************************************************/
+
 #include "Peripheral_Setup.h"
 #include "math.h"
 

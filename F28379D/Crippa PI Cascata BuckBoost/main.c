@@ -3,7 +3,7 @@
  * Aplicação: Controle do conversor CC-CC bidirecional em ambiente HIL
  * Plataforma: Texas Instruments F28379D integrado ao Typhoon HIL 402
  * Data: 2025
- * Observação: Este código contém dois controles (Buck e Boost). Usar seção "SELECIONE O CONVERSOR".
+ * Observação: Este código contém dois controles cascata (Buck e Boost). Usar seção "SELECIONE O CONVERSOR".
  ************************************************************************************************************/
 
 
